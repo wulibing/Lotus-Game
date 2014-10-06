@@ -1,0 +1,23 @@
+Team S- Lotus game CSE 116 Spring 2013
+
+How to Start the Game:
+
+In Eclipse, go into the UI package. In the UI package right click Driver.java; a drop box will appear with various options. 
+Scroll down until you see "Run as" and click "Run Configurations� this will take you to a new window. 
+In the new window, click the arguments tab. In the upper box titled, "Program Arguments" you can chose if you want to use the mouse or finch as a controller along with the names of the players you are competing against. 
+Example using the mouse as a controller: mouse player1 player2 player3  *You can have up to six players.*
+Once you are done inputting the program arguments, you can run the game and begin playing.  
+
+How to Play: 
+
+Lotus is a very entertaining and simple game.  The rules are simple, the first player to get all his/her pieces off the board wins. 
+You can begin the game with moving 1-4 spaces on the game board
+ Example using the red piece: [R] moves you one space. [R, R] moves you two spaces. [R, R, R] moves you three spaces. [R, R, R, R] moves you four spaces. 
+To move your pieces quickly off the board, you can stack your pieces on top of each other, each additional piece stack allows you to move one extra spot on the game board. For an example, if you have 3 pieces stacked on-top of each other you can move the top piece 3 spots.
+
+On the game board, there are randomized special points. 
+
+[]+5 : This special spot moves your designated piece five spots forward on the game board. 
+[]+2:   This special spot moves your designated piece two spots forward on the game board. 
+[]<<: This special spot moves your designated piece backwards on the game board. 
+
